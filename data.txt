@@ -1,3 +1,3 @@
 Name: Ironhack 
 Age: 24 
-Favourite colour: Yellow
+Favourite colour: Blue
